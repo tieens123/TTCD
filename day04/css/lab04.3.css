@@ -1,0 +1,60 @@
+.clearFix{
+    overflow: hidden;
+    clear: both;
+    /* width: 85%; */
+}
+header{
+    background-color: rgb(0, 0, 0);
+}
+.topNav{
+    width: 940px;
+    margin: 0 auto;
+    padding: 34px 0;
+}
+#logo{
+    width: 200px;
+    float: left;
+    /* margin-left: -150px; */
+}
+a{
+    text-decoration: none;
+
+}
+
+#logo a{
+    color: #fff;
+    /* font-family: Lato-Bold; */
+    font-size: 25px;
+}
+#logo a span{
+    color: rgb(170, 10, 170);
+}
+.topNav nav{
+    float: right;
+    width: 431px;
+}
+.topNav nav ul li {
+    float: left;
+}
+.topNav nav ul li a{
+    color: #fff;
+    display: block;
+    /* padding-top: 10px; */
+    padding-right: 20px;
+    font-size: 12px;
+    padding-bottom: 20px;
+
+}
+.selected,.topNav nav ul li a:hover{
+    color: red;
+}
+#banner{
+    background-color: gray;
+    width: 100%;
+}
+.b-bg{
+    
+    padding: 10px 0;
+    width: 70%;
+    padding-left: 180px;
+}

@@ -179,22 +179,73 @@ main .about-us .img-bg img{
     width: 100%;
     filter: brightness(40%);
 }
-main .about-us .title{
-    margin-top: 1rem;
-    /* position: relative; */
+main .about-us .container {
+    position: relative;
+   
+}
+main .about-us .container .about-us-top{
+    position: absolute;
+    left: 0;right: 0;top: 10%  ;
+    width: calc(12*100%/18);
+    margin: auto;
+    
+    
+}
+main  .about-us-top .title{
+    color: #fff;
+    text-align: center;
+    font-size: 2.5rem;
+    padding: 1.5rem;
+}
+
+main .about-us-top .title{
+    
+    position: relative;
     margin-bottom: 1rem;
     text-align: center;
-    padding: 7rem 0 3rem 0;
+    
 }
-main .about-us .title::after{
+main .about-us-top .title::after{
     content: "";
-    /* position: absolute; */
-    left: 44%;
-    background-color:red;
-    height: 5rem;
+    position: absolute;
+    left: 42%;
+    background-color: red;
+    height: 0.5rem;
     width: 12rem;
+    margin-top: 2.5rem;
    
 
+}
+main  .about-us-logo  {
+    width: 100%;
+}
+
+main  .about-us-logo img {
+    width: 100%;
+}
+
+main  .content {
+    width: auto;
+    left: 0;right: 0;top: 10%  ;
+    display: flex;
+    
+}
+main  .content P{
+    color: white;
+    padding: 1rem 0;
+    font-size:1rem ;
+}
+main .content h2{
+    color: white;
+    /* padding-bottom:1rem; */
+}
+main .content .content-ex{
+    padding-left: 2rem;
+    width: 100%;
+}
+main .about-us .content .content-ex img{
+    width: 20%;
+    padding-right: 1rem;
 }
 
 

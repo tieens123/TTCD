@@ -1,0 +1,119 @@
+.top{
+    text-align: center;
+    display: block;
+}
+.row{
+    width: 100%;
+}
+.col{
+    margin: 1rem 25%;
+    width: 100%;
+}
+/* // Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) { 
+    .top{
+        text-align: center;
+        display: block;
+    }
+    .row{
+        width: 100%;
+    }
+    .col{
+        margin: 1rem 25%;
+        width: 100%;
+    }
+    
+ }
+
+/* // Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) { 
+    .top{
+        display: flex;
+        justify-content: space-between;
+        padding: 1.5rem 4rem ;
+    }
+    .row{
+        width: 100%;
+        display: flex;
+        
+        flex-wrap: wrap;
+    }
+    .col{
+        margin: 0 0 2rem 0;
+        width: 50%;
+    }
+    .col img{
+        width: 71%;
+    }
+ }
+
+/* // Large devices (desktops, 992px and up) */
+@media (min-width: 992px) {  
+    .top{
+        display: flex;
+        justify-content: space-between;
+        padding: 1.5rem 2rem ;
+    }
+    .row{
+        width: 100%;
+        display: flex;
+        
+        flex-wrap: wrap;
+    }
+    .col{
+        margin: 0 0 2rem 0;
+        width: 33%;
+    }
+    .col img{
+        width: 80%;
+    }
+
+}
+
+/* // X-Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {  
+    .top{
+        display: flex;
+        justify-content: space-between;
+        padding: 1.5rem 2rem ;
+    }
+    .row{
+        width: 100%;
+        display: flex;
+        
+        flex-wrap: wrap;
+    }
+    .col{
+        margin: 0 0 2rem 0;
+        width: 25%;
+    }
+    .col img{
+        width: 80%;
+    }
+
+
+}
+
+/* // XX-Large devices (larger desktops, 1400px and up) */
+@media (min-width: 1400px) {  
+    .top{
+        display: flex;
+        justify-content: space-between;
+        padding: 1.5rem 2rem ;
+    }
+    .row{
+        width: 100%;
+        display: flex;
+        
+        flex-wrap: wrap;
+    }
+    .col{
+        margin: 0 0 2rem 0;
+        width: 20%;
+    }
+    .col img{
+        width: 80%;
+    }
+
+
+}

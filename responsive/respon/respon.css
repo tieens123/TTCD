@@ -2,6 +2,9 @@
     text-align: center;
     display: block;
 }
+.container .top .title::after{
+    left: 33%;
+}
 .row{
     width: 100%;
 }
@@ -14,6 +17,9 @@
     .top{
         text-align: center;
         display: block;
+    }
+    .container .top .title::after{
+        left: 33%;
     }
     .row{
         width: 100%;
@@ -32,6 +38,7 @@
         justify-content: space-between;
         padding: 1.5rem 4rem ;
     }
+    
     .row{
         width: 100%;
         display: flex;

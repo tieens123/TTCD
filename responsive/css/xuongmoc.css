@@ -23,6 +23,11 @@ body{
 .top h3{
     color: rgb(71, 14, 124);
     font-size: 2rem;
+
+}
+.top p{
+    
+    font-size: 1.5rem;
 }
 
 .row{
@@ -38,4 +43,22 @@ body{
 }
 .col img{
     width: 100%;
+}
+
+.container .top .title{
+    
+    position: relative;
+    
+    text-align: center;
+    padding-bottom: .5rem;
+}
+.container .top .title::after{
+    content: "";
+    position: absolute;
+    left: 0;top: 100%;
+    background-color:#bd945f;
+    height: 0.5rem;
+    width: 12rem;
+   
+
 }

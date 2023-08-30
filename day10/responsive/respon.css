@@ -1,0 +1,105 @@
+.items{
+    width: 100%;
+    padding: 1rem 3rem
+}
+.content{
+    font-size: 70%;
+}
+.content h3{
+    height: 2.5rem;
+}
+.container .top .title{
+    font-size: 100%;
+}
+.container .top .title::after{
+    width: 4rem;
+    margin: 0 38%;
+}
+
+
+ @media (min-width: 576px) {  
+    .items{
+        width: 40%;
+        padding: 1rem;
+    }
+    .content h3{
+        font-size: 140%;
+        height: 4rem;
+
+    }
+    .content p{
+        font-size: 115%;
+    }
+    .container .top .title::after{
+        width: 7rem;
+        margin: 0 40%;
+    }
+ }
+
+
+/* // Large devices (desktops, 992px and up) */
+@media (min-width: 992px) { 
+    .items{
+        width: 27%;
+        padding: 1rem;
+    }
+    .container .top .title{
+        font-size: 150%;
+    }
+    .container .top .title::after{
+        width: 6rem;
+        margin: 0 45%;
+    }
+    .content{
+        font-size:90%;
+        
+    }
+    .content h3{
+        padding: 1rem 0;
+    }
+
+ }
+
+/* // X-Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) { 
+    .items{
+        width: 20%;
+        padding: 1rem;
+    }
+    .container .top .title{
+        font-size: 150%;
+    }
+    .container .top .title::after{
+        width: 5rem;
+        margin: 0 46%;
+    }
+    .content{
+        font-size: 100%;
+        
+    }
+    .content h3{
+        padding: 1rem 0;
+        margin: 0 0 1rem 0;
+    }
+
+ }
+
+/* // XX-Large devices (larger desktops, 1400px and up) */
+@media (min-width: 1400px) {  
+    .items{
+        width: 20%;
+        padding: 1rem;
+    }
+    .top a{
+        font-size: 100%;
+    }
+    .container .top .title{
+        font-size: 250%;
+    }
+    .container .top .title::after{
+        width: 5rem;
+        margin: 0 46%;
+    }
+
+
+}

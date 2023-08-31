@@ -1,0 +1,107 @@
+.container{
+    top: 0;
+    margin: -11rem 0;
+}
+.banner img{
+    height: 15rem;
+}
+.logo{
+    top: -12rem;
+}
+.logo h1{
+    color: red;
+    padding-top: rem;
+}
+.items-logo{
+    display: none;
+}
+.content{
+    margin: 1rem 3rem;
+}
+.content h3{
+    text-align: center;
+}
+
+
+
+
+/* // Medium devices (tablets, 375px and up) */
+/* @media (min-width: 375px) {  
+    .container{
+        top: 0;
+        margin: -11rem 0;
+    }
+    .banner img{
+        height: 15rem;
+    }
+    .logo{
+        top: -12rem;
+    }
+    .logo h1{
+        color: red;
+        padding-top: rem;
+    }
+    .items-logo{
+        display: none;
+    }
+    .content{
+        margin: 1rem 3rem;
+    }
+    .content h3{
+        text-align: center;
+    }
+} */
+
+/* // Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) { 
+    .banner{
+        width: 100%;
+    }
+    .container{
+        top: -14rem;
+        position: relative;
+        background-color: white;
+        margin: 3rem 4rem;
+    }
+    
+    .items-ex{
+        display: block;
+    }
+    .items-logo{
+        display: block;
+    }
+    .content h3{
+        text-align: left;
+    }
+
+ }
+
+
+
+/* // Large devices (desktops, 992px and up) */
+@media (min-width: 786px) {  
+    
+    .items-ex{
+        display: flex;
+    }
+    .items-logo{
+        display: block;
+    }
+    .content h3{
+        text-align: left;
+    }
+
+}
+
+/* // X-Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) { 
+
+    
+ }
+
+/* // XX-Large devices (larger desktops, 1400px and up) */
+@media (min-width: 1400px) {  
+
+
+
+}

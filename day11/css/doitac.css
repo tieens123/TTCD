@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: gray;
+    
+}
+.banner img{
+    height: 25rem;
+    width: 100%;
+}
+.logo{
+    text-align: center;
+    position: relative;
+    top: -18rem;
+}
+.logo h1{
+    padding-top:1rem ;
+    /* color: red; */
+}
+.container{
+    top: -16rem;
+    position: relative;
+    background-color: white;
+    margin: 3rem 14rem;
+}
+.partner{
+    text-align: center;
+}
+.items{
+    padding: 2rem 0;
+}
+.items-ex{
+    margin: 1rem ;
+    display: flex;
+}
+.items-logo{
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+
+.content{
+    margin: 1rem 1rem 1rem 4rem;
+}
+.content h3{
+    color: rgb(153, 103, 11);
+    margin: 1rem 0;
+}

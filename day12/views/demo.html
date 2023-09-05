@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script Language="JavacSript">
+        function check(){
+            if(myform.age.value<18){
+                document.writeln("<P><H4><I> You are not eligible</I></H4></P>"+myform.name.value);
+            }
+            else{
+                document.writeln("you are eligible"+myform.name.value);
+            }
+        }
+        function losefocus(){
+            alert("you can not leave the name field blank");
+            myform.name.focus();
+            return false;
+        }
+
+
+    </script>
+</head>
+<body>
+    <!-- <script language="javacsript">
+        var i = 0;
+        for(i=0;i<100;i++){
+
+        }
+
+        var arr=['js','loop','do..while'];
+        var arrLen = arr.length;
+        var i=0;
+        do{
+            console.log(arr[i]);
+            ++i;
+        }
+        while(i<arrLen);
+        var name_array = new Array();
+
+        var name_array = new Array(1,2,3,4);
+
+
+
+    </script> -->
+    
+    <form action="" name="myform" onChange="losefocus()">
+        <p><h5><i>Enter name:</i></h5><input type="text" name="name" size="35" onBlur="losefocus()" > </p>
+        <h5><i>Enter age:</i></h5>
+        <input type="text" name="age" size="5">
+        <input type="button" value="Check" onClick="check()" >
+        <input type="reset" value="Clear" >
+
+    </form>
+
+
+</body>
+</html>
+

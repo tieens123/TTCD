@@ -12,8 +12,21 @@ function handleClickAdd(){
         // objectInfo.className = document.getElementById("Class").value;
          Item_className = document.getElementById("Class").value; 
 
+         if(Item_className == "0" ) Item_className="IT1";
+         else if (Item_className == "1") Item_className = "IT2";
+         else if (Item_className == "2") Item_className = "IT3";
+
+
+
+         let idMax = 0;
+         data.forEach(element => {
+             if(element.id > idMax){
+                 idMax=element.id;
+             }
+         });
+
          var Item = {
-            // id: "",
+            id:idMax+1,
             name: Item_fullName,
             date:Item_dateBirth,  
             gender:Item_gender,
@@ -27,6 +40,7 @@ function handleClickAdd(){
 
     data.push(Item)
     render()
+    clear()
 }
 
 
@@ -46,8 +60,8 @@ function render(){
 </tr>`
 for(let i=0;i<data.length;i++){
     table += `<tr class="align-middle">
-    <th scope="row">2</th>
-    <th>  </th> 
+    <th scope="row"></th>
+    <th>${data[i].id}  </th> 
     <th>${data[i].name}</th>
     <th>${data[i].class}</th>
     <th>${data[i].faculty}</th>
@@ -55,25 +69,77 @@ for(let i=0;i<data.length;i++){
     <th>${data[i].phone}</th>
     <th>${data[i].email}</th>
     
-    <td class="">
+    <td   >
         <button type="button" class="btn-show btn btn-outline-primary">
             <i class="bi bi-eye"></i>
             Details
         </button>
         <button type="button" class="btn btn-outline-info"
-            style="margin:0 0.5rem 0 0.5rem;">
+            style="margin:0 0.5rem 0 0.5rem;"   onclick="editItem(${data[i].id})" >
             <i class="bi bi-arrow-repeat"></i>
             Update
         </button>
-        <button type="button" class="btn btn-outline-danger" data-bs-toggle="modal"
-            data-bs-target="#exampleModal">
+        <button type="button" class="btn btn-outline-danger "  data-bs-toggle="modal"
+            data-bs-target="#exampleModal" onclick="deleteItem(${data[i].id})"  >
             <i class="bi bi-trash3"></i>
             Delete
         </button>
     </td>
 </tr>`
+
+
+
 }
 
-document.getElementById("render").innerHTML = table;
+document.getElementById("render").innerHTML = table;//${data[i].id}
+
+$(".student-details").removeClass("student-details-show");
+}
+
+function clear(){
+    document.getElementById("Name").value="";
+    document.getElementById("DateBirth").value="";
+    document.getElementById("Gender").value="";
+    document.getElementById("PhoneNumber").value="";
+    document.getElementById("Email").value="";
+    document.getElementById("Address").value="";
+    document.getElementById("Faculty").value="";
+    document.getElementById("Class").value=""; 
 
 }
+
+function deleteItem(x){
+    for(let i = 0;i<data.length;i++){
+        if(data[i].id ==x){
+            data.splice(i,1)
+            render()
+        }
+    }
+}
+
+function editItem(x){
+    for(let i = 0;i<data.length;i++){
+        if(data[i].id==x ){
+            document.getElementById("Name").value= data[i].name ;
+            document.getElementById("DateBirth").value=data[i].gender;
+            document.getElementById("Gender").value=data[i].phone;
+            document.getElementById("PhoneNumber").value=data[i];
+            document.getElementById("Email").value=data[i].email;
+            document.getElementById("Address").value=data[i].address;
+            document.getElementById("Faculty").value=data[i].faculty;
+            document.getElementById("Class").value=data[i].class;
+        }
+    }
+}
+
+
+
+$(".add-new").click(function(){
+    $(".student-details").addClass("student-details-show");
+    
+});
+$(".btn-cancel").click(function(){
+    $(".student-details").removeClass("student-details-show");
+});
+
+

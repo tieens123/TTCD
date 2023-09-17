@@ -80,6 +80,16 @@ main .banner .btn-buy{
     top: 50%;
     /* width: inherit; */
 }
+.material{
+    justify-content: space-between;
+    margin-bottom: 3rem;
+}
+.material button{
+    width: 47%;
+}
+
+
+
 /* footer */
 footer{
     margin-top: auto;

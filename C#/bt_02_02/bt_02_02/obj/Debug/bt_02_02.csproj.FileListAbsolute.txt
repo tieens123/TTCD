@@ -1,0 +1,11 @@
+C:\C#\bt_02_02\bt_02_02\bin\Debug\bt_02_02.exe.config
+C:\C#\bt_02_02\bt_02_02\bin\Debug\bt_02_02.exe
+C:\C#\bt_02_02\bt_02_02\bin\Debug\bt_02_02.pdb
+C:\C#\bt_02_02\bt_02_02\obj\Debug\bt_02_02.csproj.AssemblyReference.cache
+C:\C#\bt_02_02\bt_02_02\obj\Debug\bt_02_02.csproj.SuggestedBindingRedirects.cache
+C:\C#\bt_02_02\bt_02_02\obj\Debug\bt_02_02.Form1.resources
+C:\C#\bt_02_02\bt_02_02\obj\Debug\bt_02_02.Properties.Resources.resources
+C:\C#\bt_02_02\bt_02_02\obj\Debug\bt_02_02.csproj.GenerateResource.cache
+C:\C#\bt_02_02\bt_02_02\obj\Debug\bt_02_02.csproj.CoreCompileInputs.cache
+C:\C#\bt_02_02\bt_02_02\obj\Debug\bt_02_02.exe
+C:\C#\bt_02_02\bt_02_02\obj\Debug\bt_02_02.pdb

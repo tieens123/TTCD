@@ -1,0 +1,12 @@
+C:\C#\BT-tinhtoan\BT-tinhtoan\bin\Debug\BT-tinhtoan.exe.config
+C:\C#\BT-tinhtoan\BT-tinhtoan\bin\Debug\BT-tinhtoan.exe
+C:\C#\BT-tinhtoan\BT-tinhtoan\bin\Debug\BT-tinhtoan.pdb
+C:\C#\BT-tinhtoan\BT-tinhtoan\obj\Debug\BT-tinhtoan.csproj.AssemblyReference.cache
+C:\C#\BT-tinhtoan\BT-tinhtoan\obj\Debug\BT-tinhtoan.csproj.SuggestedBindingRedirects.cache
+C:\C#\BT-tinhtoan\BT-tinhtoan\obj\Debug\BT_tinhtoan.Form1.resources
+C:\C#\BT-tinhtoan\BT-tinhtoan\obj\Debug\BT_tinhtoan.Form2.resources
+C:\C#\BT-tinhtoan\BT-tinhtoan\obj\Debug\BT_tinhtoan.Properties.Resources.resources
+C:\C#\BT-tinhtoan\BT-tinhtoan\obj\Debug\BT-tinhtoan.csproj.GenerateResource.cache
+C:\C#\BT-tinhtoan\BT-tinhtoan\obj\Debug\BT-tinhtoan.csproj.CoreCompileInputs.cache
+C:\C#\BT-tinhtoan\BT-tinhtoan\obj\Debug\BT-tinhtoan.exe
+C:\C#\BT-tinhtoan\BT-tinhtoan\obj\Debug\BT-tinhtoan.pdb

@@ -1,0 +1,11 @@
+C:\C#\BTNV\bai 2\bai 2\bin\Debug\bai 2.exe.config
+C:\C#\BTNV\bai 2\bai 2\bin\Debug\bai 2.exe
+C:\C#\BTNV\bai 2\bai 2\bin\Debug\bai 2.pdb
+C:\C#\BTNV\bai 2\bai 2\obj\Debug\bai 2.csproj.AssemblyReference.cache
+C:\C#\BTNV\bai 2\bai 2\obj\Debug\bai 2.csproj.SuggestedBindingRedirects.cache
+C:\C#\BTNV\bai 2\bai 2\obj\Debug\bai_2.Form1.resources
+C:\C#\BTNV\bai 2\bai 2\obj\Debug\bai_2.Properties.Resources.resources
+C:\C#\BTNV\bai 2\bai 2\obj\Debug\bai 2.csproj.GenerateResource.cache
+C:\C#\BTNV\bai 2\bai 2\obj\Debug\bai 2.csproj.CoreCompileInputs.cache
+C:\C#\BTNV\bai 2\bai 2\obj\Debug\bai 2.exe
+C:\C#\BTNV\bai 2\bai 2\obj\Debug\bai 2.pdb

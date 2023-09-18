@@ -1,0 +1,15 @@
+C:\C#\CSharpDEV\CSharpDEV\bin\Debug\net7.0\CSharpDEV.exe
+C:\C#\CSharpDEV\CSharpDEV\bin\Debug\net7.0\CSharpDEV.deps.json
+C:\C#\CSharpDEV\CSharpDEV\bin\Debug\net7.0\CSharpDEV.runtimeconfig.json
+C:\C#\CSharpDEV\CSharpDEV\bin\Debug\net7.0\CSharpDEV.dll
+C:\C#\CSharpDEV\CSharpDEV\bin\Debug\net7.0\CSharpDEV.pdb
+C:\C#\CSharpDEV\CSharpDEV\obj\Debug\net7.0\CSharpDEV.csproj.AssemblyReference.cache
+C:\C#\CSharpDEV\CSharpDEV\obj\Debug\net7.0\CSharpDEV.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\CSharpDEV\CSharpDEV\obj\Debug\net7.0\CSharpDEV.AssemblyInfoInputs.cache
+C:\C#\CSharpDEV\CSharpDEV\obj\Debug\net7.0\CSharpDEV.AssemblyInfo.cs
+C:\C#\CSharpDEV\CSharpDEV\obj\Debug\net7.0\CSharpDEV.csproj.CoreCompileInputs.cache
+C:\C#\CSharpDEV\CSharpDEV\obj\Debug\net7.0\CSharpDEV.dll
+C:\C#\CSharpDEV\CSharpDEV\obj\Debug\net7.0\refint\CSharpDEV.dll
+C:\C#\CSharpDEV\CSharpDEV\obj\Debug\net7.0\CSharpDEV.pdb
+C:\C#\CSharpDEV\CSharpDEV\obj\Debug\net7.0\CSharpDEV.genruntimeconfig.cache
+C:\C#\CSharpDEV\CSharpDEV\obj\Debug\net7.0\ref\CSharpDEV.dll

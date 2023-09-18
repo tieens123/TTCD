@@ -1,0 +1,11 @@
+C:\C#\bai3\bai3\bin\Debug\bai3.exe.config
+C:\C#\bai3\bai3\bin\Debug\bai3.exe
+C:\C#\bai3\bai3\bin\Debug\bai3.pdb
+C:\C#\bai3\bai3\obj\Debug\bai3.csproj.AssemblyReference.cache
+C:\C#\bai3\bai3\obj\Debug\bai3.csproj.SuggestedBindingRedirects.cache
+C:\C#\bai3\bai3\obj\Debug\bai3.Form1.resources
+C:\C#\bai3\bai3\obj\Debug\bai3.Properties.Resources.resources
+C:\C#\bai3\bai3\obj\Debug\bai3.csproj.GenerateResource.cache
+C:\C#\bai3\bai3\obj\Debug\bai3.csproj.CoreCompileInputs.cache
+C:\C#\bai3\bai3\obj\Debug\bai3.exe
+C:\C#\bai3\bai3\obj\Debug\bai3.pdb

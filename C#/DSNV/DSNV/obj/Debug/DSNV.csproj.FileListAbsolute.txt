@@ -1,0 +1,13 @@
+C:\C#\DSNV\DSNV\bin\Debug\Database1.mdf
+C:\C#\DSNV\DSNV\bin\Debug\Database1_log.ldf
+C:\C#\DSNV\DSNV\bin\Debug\DSNV.exe.config
+C:\C#\DSNV\DSNV\bin\Debug\DSNV.exe
+C:\C#\DSNV\DSNV\bin\Debug\DSNV.pdb
+C:\C#\DSNV\DSNV\obj\Debug\DSNV.csproj.AssemblyReference.cache
+C:\C#\DSNV\DSNV\obj\Debug\DSNV.csproj.SuggestedBindingRedirects.cache
+C:\C#\DSNV\DSNV\obj\Debug\DSNV.Form1.resources
+C:\C#\DSNV\DSNV\obj\Debug\DSNV.Properties.Resources.resources
+C:\C#\DSNV\DSNV\obj\Debug\DSNV.csproj.GenerateResource.cache
+C:\C#\DSNV\DSNV\obj\Debug\DSNV.csproj.CoreCompileInputs.cache
+C:\C#\DSNV\DSNV\obj\Debug\DSNV.exe
+C:\C#\DSNV\DSNV\obj\Debug\DSNV.pdb

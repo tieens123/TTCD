@@ -1,0 +1,13 @@
+C:\C#\bt_on\bt_on\obj\Debug\bt_on.csproj.AssemblyReference.cache
+C:\C#\bt_on\bt_on\obj\Debug\bt_on.csproj.SuggestedBindingRedirects.cache
+C:\C#\bt_on\bt_on\obj\Debug\bt_on.Form1.resources
+C:\C#\bt_on\bt_on\obj\Debug\bt_on.Properties.Resources.resources
+C:\C#\bt_on\bt_on\obj\Debug\bt_on.csproj.GenerateResource.cache
+C:\C#\bt_on\bt_on\obj\Debug\bt_on.csproj.CoreCompileInputs.cache
+C:\C#\bt_on\bt_on\bin\Debug\Database1.mdf
+C:\C#\bt_on\bt_on\bin\Debug\Database1_log.ldf
+C:\C#\bt_on\bt_on\bin\Debug\bt_on.exe.config
+C:\C#\bt_on\bt_on\bin\Debug\bt_on.exe
+C:\C#\bt_on\bt_on\bin\Debug\bt_on.pdb
+C:\C#\bt_on\bt_on\obj\Debug\bt_on.exe
+C:\C#\bt_on\bt_on\obj\Debug\bt_on.pdb

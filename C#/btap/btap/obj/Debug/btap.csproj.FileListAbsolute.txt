@@ -1,0 +1,11 @@
+C:\C#\btap\btap\bin\Debug\btap.exe.config
+C:\C#\btap\btap\bin\Debug\btap.exe
+C:\C#\btap\btap\bin\Debug\btap.pdb
+C:\C#\btap\btap\obj\Debug\btap.csproj.AssemblyReference.cache
+C:\C#\btap\btap\obj\Debug\btap.csproj.SuggestedBindingRedirects.cache
+C:\C#\btap\btap\obj\Debug\btap.Form1.resources
+C:\C#\btap\btap\obj\Debug\btap.Properties.Resources.resources
+C:\C#\btap\btap\obj\Debug\btap.csproj.GenerateResource.cache
+C:\C#\btap\btap\obj\Debug\btap.csproj.CoreCompileInputs.cache
+C:\C#\btap\btap\obj\Debug\btap.exe
+C:\C#\btap\btap\obj\Debug\btap.pdb

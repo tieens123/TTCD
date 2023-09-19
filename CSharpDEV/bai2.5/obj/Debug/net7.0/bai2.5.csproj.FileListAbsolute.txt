@@ -1,0 +1,15 @@
+F:\TTCD-DACM\CSharp#\CSharpDEV\bai2.5\bin\Debug\net7.0\bai2.5.exe
+F:\TTCD-DACM\CSharp#\CSharpDEV\bai2.5\bin\Debug\net7.0\bai2.5.deps.json
+F:\TTCD-DACM\CSharp#\CSharpDEV\bai2.5\bin\Debug\net7.0\bai2.5.runtimeconfig.json
+F:\TTCD-DACM\CSharp#\CSharpDEV\bai2.5\bin\Debug\net7.0\bai2.5.dll
+F:\TTCD-DACM\CSharp#\CSharpDEV\bai2.5\bin\Debug\net7.0\bai2.5.pdb
+F:\TTCD-DACM\CSharp#\CSharpDEV\bai2.5\obj\Debug\net7.0\bai2.5.csproj.AssemblyReference.cache
+F:\TTCD-DACM\CSharp#\CSharpDEV\bai2.5\obj\Debug\net7.0\bai2.5.GeneratedMSBuildEditorConfig.editorconfig
+F:\TTCD-DACM\CSharp#\CSharpDEV\bai2.5\obj\Debug\net7.0\bai2.5.AssemblyInfoInputs.cache
+F:\TTCD-DACM\CSharp#\CSharpDEV\bai2.5\obj\Debug\net7.0\bai2.5.AssemblyInfo.cs
+F:\TTCD-DACM\CSharp#\CSharpDEV\bai2.5\obj\Debug\net7.0\bai2.5.csproj.CoreCompileInputs.cache
+F:\TTCD-DACM\CSharp#\CSharpDEV\bai2.5\obj\Debug\net7.0\bai2.5.dll
+F:\TTCD-DACM\CSharp#\CSharpDEV\bai2.5\obj\Debug\net7.0\refint\bai2.5.dll
+F:\TTCD-DACM\CSharp#\CSharpDEV\bai2.5\obj\Debug\net7.0\bai2.5.pdb
+F:\TTCD-DACM\CSharp#\CSharpDEV\bai2.5\obj\Debug\net7.0\bai2.5.genruntimeconfig.cache
+F:\TTCD-DACM\CSharp#\CSharpDEV\bai2.5\obj\Debug\net7.0\ref\bai2.5.dll

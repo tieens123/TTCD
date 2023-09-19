@@ -1,0 +1,15 @@
+F:\TTCD-DACM\CSharp#\CSharpDEV\lap2_bai2.1\bin\Debug\net7.0\lap2_bai2.1.exe
+F:\TTCD-DACM\CSharp#\CSharpDEV\lap2_bai2.1\bin\Debug\net7.0\lap2_bai2.1.deps.json
+F:\TTCD-DACM\CSharp#\CSharpDEV\lap2_bai2.1\bin\Debug\net7.0\lap2_bai2.1.runtimeconfig.json
+F:\TTCD-DACM\CSharp#\CSharpDEV\lap2_bai2.1\bin\Debug\net7.0\lap2_bai2.1.dll
+F:\TTCD-DACM\CSharp#\CSharpDEV\lap2_bai2.1\bin\Debug\net7.0\lap2_bai2.1.pdb
+F:\TTCD-DACM\CSharp#\CSharpDEV\lap2_bai2.1\obj\Debug\net7.0\lap2_bai2.1.csproj.AssemblyReference.cache
+F:\TTCD-DACM\CSharp#\CSharpDEV\lap2_bai2.1\obj\Debug\net7.0\lap2_bai2.1.GeneratedMSBuildEditorConfig.editorconfig
+F:\TTCD-DACM\CSharp#\CSharpDEV\lap2_bai2.1\obj\Debug\net7.0\lap2_bai2.1.AssemblyInfoInputs.cache
+F:\TTCD-DACM\CSharp#\CSharpDEV\lap2_bai2.1\obj\Debug\net7.0\lap2_bai2.1.AssemblyInfo.cs
+F:\TTCD-DACM\CSharp#\CSharpDEV\lap2_bai2.1\obj\Debug\net7.0\lap2_bai2.1.csproj.CoreCompileInputs.cache
+F:\TTCD-DACM\CSharp#\CSharpDEV\lap2_bai2.1\obj\Debug\net7.0\lap2_bai2.1.dll
+F:\TTCD-DACM\CSharp#\CSharpDEV\lap2_bai2.1\obj\Debug\net7.0\refint\lap2_bai2.1.dll
+F:\TTCD-DACM\CSharp#\CSharpDEV\lap2_bai2.1\obj\Debug\net7.0\lap2_bai2.1.pdb
+F:\TTCD-DACM\CSharp#\CSharpDEV\lap2_bai2.1\obj\Debug\net7.0\lap2_bai2.1.genruntimeconfig.cache
+F:\TTCD-DACM\CSharp#\CSharpDEV\lap2_bai2.1\obj\Debug\net7.0\ref\lap2_bai2.1.dll

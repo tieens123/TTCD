@@ -1,0 +1,15 @@
+C:\C#\CSharpDEV\Lession01\bin\Debug\net7.0\Lession01.exe
+C:\C#\CSharpDEV\Lession01\bin\Debug\net7.0\Lession01.deps.json
+C:\C#\CSharpDEV\Lession01\bin\Debug\net7.0\Lession01.runtimeconfig.json
+C:\C#\CSharpDEV\Lession01\bin\Debug\net7.0\Lession01.dll
+C:\C#\CSharpDEV\Lession01\bin\Debug\net7.0\Lession01.pdb
+C:\C#\CSharpDEV\Lession01\obj\Debug\net7.0\Lession01.csproj.AssemblyReference.cache
+C:\C#\CSharpDEV\Lession01\obj\Debug\net7.0\Lession01.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\CSharpDEV\Lession01\obj\Debug\net7.0\Lession01.AssemblyInfoInputs.cache
+C:\C#\CSharpDEV\Lession01\obj\Debug\net7.0\Lession01.AssemblyInfo.cs
+C:\C#\CSharpDEV\Lession01\obj\Debug\net7.0\Lession01.csproj.CoreCompileInputs.cache
+C:\C#\CSharpDEV\Lession01\obj\Debug\net7.0\Lession01.dll
+C:\C#\CSharpDEV\Lession01\obj\Debug\net7.0\refint\Lession01.dll
+C:\C#\CSharpDEV\Lession01\obj\Debug\net7.0\Lession01.pdb
+C:\C#\CSharpDEV\Lession01\obj\Debug\net7.0\Lession01.genruntimeconfig.cache
+C:\C#\CSharpDEV\Lession01\obj\Debug\net7.0\ref\Lession01.dll

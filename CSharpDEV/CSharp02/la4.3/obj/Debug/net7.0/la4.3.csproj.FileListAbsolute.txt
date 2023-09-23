@@ -1,0 +1,14 @@
+F:\TTCD-DACM\CSharpDEV\CSharp02\la4.3\bin\Debug\net7.0\la4.3.exe
+F:\TTCD-DACM\CSharpDEV\CSharp02\la4.3\bin\Debug\net7.0\la4.3.deps.json
+F:\TTCD-DACM\CSharpDEV\CSharp02\la4.3\bin\Debug\net7.0\la4.3.runtimeconfig.json
+F:\TTCD-DACM\CSharpDEV\CSharp02\la4.3\bin\Debug\net7.0\la4.3.dll
+F:\TTCD-DACM\CSharpDEV\CSharp02\la4.3\bin\Debug\net7.0\la4.3.pdb
+F:\TTCD-DACM\CSharpDEV\CSharp02\la4.3\obj\Debug\net7.0\la4.3.GeneratedMSBuildEditorConfig.editorconfig
+F:\TTCD-DACM\CSharpDEV\CSharp02\la4.3\obj\Debug\net7.0\la4.3.AssemblyInfoInputs.cache
+F:\TTCD-DACM\CSharpDEV\CSharp02\la4.3\obj\Debug\net7.0\la4.3.AssemblyInfo.cs
+F:\TTCD-DACM\CSharpDEV\CSharp02\la4.3\obj\Debug\net7.0\la4.3.csproj.CoreCompileInputs.cache
+F:\TTCD-DACM\CSharpDEV\CSharp02\la4.3\obj\Debug\net7.0\la4.3.dll
+F:\TTCD-DACM\CSharpDEV\CSharp02\la4.3\obj\Debug\net7.0\refint\la4.3.dll
+F:\TTCD-DACM\CSharpDEV\CSharp02\la4.3\obj\Debug\net7.0\la4.3.pdb
+F:\TTCD-DACM\CSharpDEV\CSharp02\la4.3\obj\Debug\net7.0\la4.3.genruntimeconfig.cache
+F:\TTCD-DACM\CSharpDEV\CSharp02\la4.3\obj\Debug\net7.0\ref\la4.3.dll

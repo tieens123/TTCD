@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\TTCD-DACM\\CSharp#\\CSharpDEV\\CSharpDEV\\CSharpDEV.csproj": {}
+    "F:\\TTCD-DACM\\CSharpDEV\\CSharpDEV\\CSharpDEV.csproj": {}
   },
   "projects": {
-    "F:\\TTCD-DACM\\CSharp#\\CSharpDEV\\CSharpDEV\\CSharpDEV.csproj": {
+    "F:\\TTCD-DACM\\CSharpDEV\\CSharpDEV\\CSharpDEV.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\TTCD-DACM\\CSharp#\\CSharpDEV\\CSharpDEV\\CSharpDEV.csproj",
+        "projectUniqueName": "F:\\TTCD-DACM\\CSharpDEV\\CSharpDEV\\CSharpDEV.csproj",
         "projectName": "CSharpDEV",
-        "projectPath": "F:\\TTCD-DACM\\CSharp#\\CSharpDEV\\CSharpDEV\\CSharpDEV.csproj",
+        "projectPath": "F:\\TTCD-DACM\\CSharpDEV\\CSharpDEV\\CSharpDEV.csproj",
         "packagesPath": "C:\\Users\\Welcome\\.nuget\\packages\\",
-        "outputPath": "F:\\TTCD-DACM\\CSharp#\\CSharpDEV\\CSharpDEV\\obj\\",
+        "outputPath": "F:\\TTCD-DACM\\CSharpDEV\\CSharpDEV\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Welcome\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

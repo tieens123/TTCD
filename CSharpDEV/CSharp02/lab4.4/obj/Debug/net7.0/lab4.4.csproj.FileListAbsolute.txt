@@ -1,0 +1,4 @@
+F:\TTCD-DACM\CSharpDEV\CSharp02\lab4.4\obj\Debug\net7.0\lab4.4.GeneratedMSBuildEditorConfig.editorconfig
+F:\TTCD-DACM\CSharpDEV\CSharp02\lab4.4\obj\Debug\net7.0\lab4.4.AssemblyInfoInputs.cache
+F:\TTCD-DACM\CSharpDEV\CSharp02\lab4.4\obj\Debug\net7.0\lab4.4.AssemblyInfo.cs
+F:\TTCD-DACM\CSharpDEV\CSharp02\lab4.4\obj\Debug\net7.0\lab4.4.csproj.CoreCompileInputs.cache

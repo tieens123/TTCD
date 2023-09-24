@@ -1,6 +1,6 @@
 $(document).ready(function(){
     var pagination ={
-        pageSize: 4,
+        pageSize: 3,
         pageNumber:1,
         skip:0,
         recordCount:12,
@@ -10,48 +10,46 @@ $(document).ready(function(){
 
 
     var listNews = [];
-    listNews.addNews("sp1.png","Thông tin 1", " Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum dolor laboriosam debitis molestiae qui! Ipsum earum nam autrem eveniet inventore, neque minima quo veniam velit tempore fugit, explicabo ipsam!");
-    listNews.addNews("sp2.png","Thông tin 2", " Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum dolor laboriosam debitis molestiae qui! Ipsum earum nam autrem eveniet inventore, neque minima quo veniam velit tempore fugit, explicabo ipsam!");
-    listNews.addNews("sp3.png","Thông tin 3", " Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum dolor laboriosam debitis molestiae qui! Ipsum earum nam autrem eveniet inventore, neque minima quo veniam velit tempore fugit, explicabo ipsam!");
-    listNews.addNews("sp4.png","Thông tin 4", " Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum dolor laboriosam debitis molestiae qui! Ipsum earum nam autrem eveniet inventore, neque minima quo veniam velit tempore fugit, explicabo ipsam!");
-    listNews.addNews("sp5.png","Thông tin 5", " Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum dolor laboriosam debitis molestiae qui! Ipsum earum nam autrem eveniet inventore, neque minima quo veniam velit tempore fugit, explicabo ipsam!");
-    listNews.addNews("sp6.png","Thông tin 6", " Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum dolor laboriosam debitis molestiae qui! Ipsum earum nam autrem eveniet inventore, neque minima quo veniam velit tempore fugit, explicabo ipsam!");
-    listNews.addNews("sp7.png","Thông tin 7", " Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum dolor laboriosam debitis molestiae qui! Ipsum earum nam autrem eveniet inventore, neque minima quo veniam velit tempore fugit, explicabo ipsam!");
-    listNews.addNews("sp8.png","Thông tin 8", " Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum dolor laboriosam debitis molestiae qui! Ipsum earum nam autrem eveniet inventore, neque minima quo veniam velit tempore fugit, explicabo ipsam!");
-    listNews.addNews("sp9.png","Thông tin 9", " Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum dolor laboriosam debitis molestiae qui! Ipsum earum nam autrem eveniet inventore, neque minima quo veniam velit tempore fugit, explicabo ipsam!");
-    listNews.addNews("sp10.png","Thông tin 10", " Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum dolor laboriosam debitis molestiae qui! Ipsum earum nam autrem eveniet inventore, neque minima quo veniam velit tempore fugit, explicabo ipsam!");
-    listNews.addNews("sp11.png","Thông tin 11", " Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum dolor laboriosam debitis molestiae qui! Ipsum earum nam autrem eveniet inventore, neque minima quo veniam velit tempore fugit, explicabo ipsam!");
-    listNews.addNews("sp12.png","Thông tin 12", " Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum dolor laboriosam debitis molestiae qui! Ipsum earum nam autrem eveniet inventore, neque minima quo veniam velit tempore fugit, explicabo ipsam!");
+    listNews.push(addNews("sp1.png","Thông tin 1", " Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum dolor laboriosam debitis molestiae qui! Ipsum earum nam autrem eveniet inventore, neque minima quo veniam velit tempore fugit, explicabo ipsam!"));
+    listNews.push(addNews("sp2.png","Thông tin 2", " Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum dolor laboriosam debitis molestiae qui! Ipsum earum nam autrem eveniet inventore, neque minima quo veniam velit tempore fugit, explicabo ipsam!"));
+    listNews.push(addNews("sp3.png","Thông tin 3", " Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum dolor laboriosam debitis molestiae qui! Ipsum earum nam autrem eveniet inventore, neque minima quo veniam velit tempore fugit, explicabo ipsam!"));
+    listNews.push(addNews("sp4.png","Thông tin 4", " Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum dolor laboriosam debitis molestiae qui! Ipsum earum nam autrem eveniet inventore, neque minima quo veniam velit tempore fugit, explicabo ipsam!"));
+    listNews.push(addNews("sp5.png","Thông tin 5", " Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum dolor laboriosam debitis molestiae qui! Ipsum earum nam autrem eveniet inventore, neque minima quo veniam velit tempore fugit, explicabo ipsam!"));
+    listNews.push(addNews("sp6.png","Thông tin 6", " Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum dolor laboriosam debitis molestiae qui! Ipsum earum nam autrem eveniet inventore, neque minima quo veniam velit tempore fugit, explicabo ipsam!"));
+    listNews.push(addNews("sp7.png","Thông tin 7", " Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum dolor laboriosam debitis molestiae qui! Ipsum earum nam autrem eveniet inventore, neque minima quo veniam velit tempore fugit, explicabo ipsam!"));
+    listNews.push(addNews("sp8.png","Thông tin 8", " Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum dolor laboriosam debitis molestiae qui! Ipsum earum nam autrem eveniet inventore, neque minima quo veniam velit tempore fugit, explicabo ipsam!"));
+    listNews.push(addNews("sp9.png","Thông tin 9", " Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum dolor laboriosam debitis molestiae qui! Ipsum earum nam autrem eveniet inventore, neque minima quo veniam velit tempore fugit, explicabo ipsam!"));
+    listNews.push(addNews("sp10.png","Thông tin 10", " Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum dolor laboriosam debitis molestiae qui! Ipsum earum nam autrem eveniet inventore, neque minima quo veniam velit tempore fugit, explicabo ipsam!"));
+    listNews.push(addNews("sp11.png","Thông tin 11", " Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum dolor laboriosam debitis molestiae qui! Ipsum earum nam autrem eveniet inventore, neque minima quo veniam velit tempore fugit, explicabo ipsam!"));
+    listNews.push(addNews("sp12.png","Thông tin 12", " Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum dolor laboriosam debitis molestiae qui! Ipsum earum nam autrem eveniet inventore, neque minima quo veniam velit tempore fugit, explicabo ipsam!"));
+
+    renderListNews(listNews);
 
 
-    renderListNews(listNews)
 
-
-    function renderListNews(listNews){
-       
+    function renderListNews(listNews){ 
         $(".listNews .news .row").html("");
+
         pagination.recordCount = listNews.length;
         var htmlListNews = "";
         var startIndex = pagination.skip;
         var endIndex  = pagination.skip +pagination.pageSize;
         for(let i = startIndex;i<endIndex;i++ ){
-            
-            
             htmlListNews+=`
             <div class="col-md-4 mb-4  col-sm-6 new-item " >
             <div class="card">
                 <img src="../images/xemtatca_sanpham/${listNews[i].img}" alt="" class="card-img-top">
                 <div class="card-body py-2">
-                    <h5 class="card-title text-gold p-2" style="font-family: font-ultra">${listProduct[i].name}</h5>
+                    <h5 class="card-title text-gold p-2" style="font-family: font-ultra">${listNews[i].name}</h5>
                     <p class="p-2">
                     ${listNews[i].param}
                     </p>
                 </div>
-            </div>
-        
+            </div>      
         </div>
         `;
         }
+
         pagination.totalPage = Math.round(pagination.recordCount / pagination.pageSize);
         $(".nav .pagination").html("");
         var htmlPageNumber =``;
@@ -90,7 +88,7 @@ $(document).ready(function(){
 
     }
 
-
+  
 
     function addNews(imgInput,nameInput,paramInput){
         return{

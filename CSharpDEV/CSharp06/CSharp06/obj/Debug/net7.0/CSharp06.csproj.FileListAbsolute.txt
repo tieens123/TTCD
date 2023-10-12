@@ -1,0 +1,14 @@
+F:\TTCD-DACM\TTCD\CSharpDEV\CSharp06\CSharp06\bin\Debug\net7.0\CSharp06.exe
+F:\TTCD-DACM\TTCD\CSharpDEV\CSharp06\CSharp06\bin\Debug\net7.0\CSharp06.deps.json
+F:\TTCD-DACM\TTCD\CSharpDEV\CSharp06\CSharp06\bin\Debug\net7.0\CSharp06.runtimeconfig.json
+F:\TTCD-DACM\TTCD\CSharpDEV\CSharp06\CSharp06\bin\Debug\net7.0\CSharp06.dll
+F:\TTCD-DACM\TTCD\CSharpDEV\CSharp06\CSharp06\bin\Debug\net7.0\CSharp06.pdb
+F:\TTCD-DACM\TTCD\CSharpDEV\CSharp06\CSharp06\obj\Debug\net7.0\CSharp06.GeneratedMSBuildEditorConfig.editorconfig
+F:\TTCD-DACM\TTCD\CSharpDEV\CSharp06\CSharp06\obj\Debug\net7.0\CSharp06.AssemblyInfoInputs.cache
+F:\TTCD-DACM\TTCD\CSharpDEV\CSharp06\CSharp06\obj\Debug\net7.0\CSharp06.AssemblyInfo.cs
+F:\TTCD-DACM\TTCD\CSharpDEV\CSharp06\CSharp06\obj\Debug\net7.0\CSharp06.csproj.CoreCompileInputs.cache
+F:\TTCD-DACM\TTCD\CSharpDEV\CSharp06\CSharp06\obj\Debug\net7.0\CSharp06.dll
+F:\TTCD-DACM\TTCD\CSharpDEV\CSharp06\CSharp06\obj\Debug\net7.0\refint\CSharp06.dll
+F:\TTCD-DACM\TTCD\CSharpDEV\CSharp06\CSharp06\obj\Debug\net7.0\CSharp06.pdb
+F:\TTCD-DACM\TTCD\CSharpDEV\CSharp06\CSharp06\obj\Debug\net7.0\CSharp06.genruntimeconfig.cache
+F:\TTCD-DACM\TTCD\CSharpDEV\CSharp06\CSharp06\obj\Debug\net7.0\ref\CSharp06.dll

@@ -1,0 +1,14 @@
+F:\TTCD-DACM\TTCD\CSharpDEV\CSharp06\Tulam6_20\bin\Debug\net7.0\Tulam6_20.exe
+F:\TTCD-DACM\TTCD\CSharpDEV\CSharp06\Tulam6_20\bin\Debug\net7.0\Tulam6_20.deps.json
+F:\TTCD-DACM\TTCD\CSharpDEV\CSharp06\Tulam6_20\bin\Debug\net7.0\Tulam6_20.runtimeconfig.json
+F:\TTCD-DACM\TTCD\CSharpDEV\CSharp06\Tulam6_20\bin\Debug\net7.0\Tulam6_20.dll
+F:\TTCD-DACM\TTCD\CSharpDEV\CSharp06\Tulam6_20\bin\Debug\net7.0\Tulam6_20.pdb
+F:\TTCD-DACM\TTCD\CSharpDEV\CSharp06\Tulam6_20\obj\Debug\net7.0\Tulam6_20.GeneratedMSBuildEditorConfig.editorconfig
+F:\TTCD-DACM\TTCD\CSharpDEV\CSharp06\Tulam6_20\obj\Debug\net7.0\Tulam6_20.AssemblyInfoInputs.cache
+F:\TTCD-DACM\TTCD\CSharpDEV\CSharp06\Tulam6_20\obj\Debug\net7.0\Tulam6_20.AssemblyInfo.cs
+F:\TTCD-DACM\TTCD\CSharpDEV\CSharp06\Tulam6_20\obj\Debug\net7.0\Tulam6_20.csproj.CoreCompileInputs.cache
+F:\TTCD-DACM\TTCD\CSharpDEV\CSharp06\Tulam6_20\obj\Debug\net7.0\Tulam6_20.dll
+F:\TTCD-DACM\TTCD\CSharpDEV\CSharp06\Tulam6_20\obj\Debug\net7.0\refint\Tulam6_20.dll
+F:\TTCD-DACM\TTCD\CSharpDEV\CSharp06\Tulam6_20\obj\Debug\net7.0\Tulam6_20.pdb
+F:\TTCD-DACM\TTCD\CSharpDEV\CSharp06\Tulam6_20\obj\Debug\net7.0\Tulam6_20.genruntimeconfig.cache
+F:\TTCD-DACM\TTCD\CSharpDEV\CSharp06\Tulam6_20\obj\Debug\net7.0\ref\Tulam6_20.dll

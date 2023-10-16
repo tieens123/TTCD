@@ -1,0 +1,68 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewData["Title"] = "Index";
+    var accounts = ViewBag.accounts;
+
+}
+<style>
+.row ul li{
+        list-style: none;
+        border: 1px solid black;
+        width:70%;
+        height:40px;
+        
+}
+
+.row ul{
+    padding-left: 0px;
+}
+.title{
+    display:flex;
+    
+}
+</style>
+    
+<div class="title">
+    <h2 class="col-md-3">DANH MỤC</h2>
+    <h2>DANH SÁCH SẢN PHẨM</h2>
+
+
+
+</div>
+<div class="row">
+    <div class="col-md-3" >
+        
+        <ul>
+            <li>laptop</li>
+            <li>điện thoại</li>
+            <li>máy tính bảng</li>
+            <li>TV</li>
+            <li>Tủ lạnh</li>
+            <li>Máy bơm</li>
+            <li>Quạt điện </li>
+            <li>Lò sưởi</li>
+    
+        </ul>
+    </div>
+    @foreach (var item in accounts)
+    {
+    
+        <div class="col-md-3">
+            <div class="thumbnail">
+                <img src="@item.Avatar">
+                <div class="caption">
+                    <h3>@item.Name</h3>
+                    <p>
+                        @item.Bio
+                    </p>
+                    <p>
+                        <a asp-route="profile" asp-route-id="@item.Id" class="btn btn-success btn-block">Chi tiết</a>
+                    </p>
+                </div>
+            </div>
+        </div>
+    
+    }
+</div>

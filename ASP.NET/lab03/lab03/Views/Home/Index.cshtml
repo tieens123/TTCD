@@ -1,0 +1,22 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+<partial name="Banner" />
+<hr />
+<!--nút bấm-->
+<button id="loadAjax" class="btn btn-sm btn-primary">Ấn vào để xem điều bất ngờ  :)))</button>
+<hr />
+<!--nội dung sẽ được load từ partial view vào đây-->
+<div id="data-from-ajax" class="row">Đang load ở đây nè...</div>
+<hr />
+<h2>popolar load từ book</h2>
+@await Component.InvokeAsync("Book")
+
+@section Scripts{
+    <script>
+        //gọi sk click và nút bấm có id loadAjax
+        $('#loadAjax').click(function () {
+            $('#data-from-ajax').load("/Book/PopularBook");
+        })
+    </script>
+}

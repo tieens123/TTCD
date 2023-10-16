@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CPAu4gocxnde/MhTyE6byhQDN8c8W+UX9BnjOs6VuQ2MuMBWuq9B1VZKVEq5S5ktb1iijWRo3Bq1lStG9plVaA==",
+  "success": true,
+  "projectFilePath": "F:\\TTCD-DACM\\TTCD\\ASP.NET\\lab02\\lab02\\lab02.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Welcome\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.4\\microsoft.visualstudio.azure.containers.tools.targets.1.19.4.nupkg.sha512"
+  ],
+  "logs": []
+}

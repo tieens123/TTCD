@@ -1,0 +1,53 @@
+﻿@model Lesson04.Assigment.Models.Category
+
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Details - @Model.Id </h1>
+<div class="alert alert-danger ">@Model.Name</div>
+<div class="row">
+
+   <div class="col-md-6">
+        <div class="input-group mb-3">
+            <label asp-for="Id" class="input-group-text">Id</label>
+            <input asp-for="Id" class="form-control" readonly value="@Model.Id" />
+        </div>
+        <div class="input-group mb-3">
+            <label asp-for="Name" class="input-group-text">Name</label>
+            <input asp-for="Name" class="form-control" readonly value="@Model.Name" />
+        </div>
+        <div class="input-group mb-3">
+            <label asp-for="CreateDate" class="input-group-text">CreateDate</label>
+            <input asp-for="CreateDate" class="form-control" readonly value="@Model.CreateDate" />
+        </div>
+        <div class="input-group mb-3">
+            <label asp-for="CreateBy" class="input-group-text">CreateBy</label>
+            <input asp-for="CreateBy" class="form-control" readonly value="@Model.CreateBy" />
+        </div>
+        <div class="input-group mb-3">
+            <label asp-for="Status" class="input-group-text">Status</label>
+            <label class="form-check-label">
+                <input class="form-check-input" asp-for="Status" />
+                @if (Model.Status == true)
+                {
+                    <text>Show</text>
+                }
+                else
+                {
+                    <text>Hide</text>
+                }
+                </label>
+        </div>
+      
+   </div>
+
+</div>
+<div>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |
+    <a href="/categor/edit/@Model.Id">Sửa</a>
+    |
+    <a asp-action="edit" asp-controller="category" asp-route-id="@Model.Id" >Sửa</a>
+    <a asp-action="Index">Back to List</a>
+</div>

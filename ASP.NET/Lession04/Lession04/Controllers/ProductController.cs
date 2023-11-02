@@ -124,7 +124,7 @@ namespace Lession04.Controllers
         {
             var data = DataLocal._products.FirstOrDefault(x => x.Id == id);
 
-            return View();
+            return View(data);
         }
 
         // POST: ProductController/Delete/5

@@ -37,7 +37,6 @@
             <div class="form-group">
                 <label asp-for="Image" class="control-label"></label>
                 <img src="@Model.Image" alt="@Model.Name" style="width:10rem" />
-
                 <input asp-for="Image" type="hidden" class="form-control" />
                 <input type="file" class="form-control" name="UploadImage" />
                 <span asp-validation-for="Image" class="text-danger"></span>
@@ -55,7 +54,7 @@
             </div>
             
             <div class="form-group ">
-                <label asp-for="Status" class="control-lable"></label>
+                <label asp-for="Status" class="control-label"></label>
                 <input type="radio" asp-for="Status" id="Show" value="true" checked />
                 <label for="Show">Show</label>
                 <input type="radio" asp-for="Status" id="Hide" value="false" />

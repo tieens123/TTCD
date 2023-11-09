@@ -40,6 +40,10 @@ namespace Lession04.Controllers
         [ValidateAntiForgeryToken]
         public ActionResult Create(Product product)
         {
+            if (!ModelState.IsValid)
+            {
+                return View(product);
+            }
             try
             {
                 //upload file

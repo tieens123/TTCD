@@ -3,10 +3,10 @@
     "",
     "\\Lesson04.Assigment",
     "\\Lesson04.Assigment\\Controllers",
+    "\\Lesson04.Assigment\\Models",
     "\\Lesson04.Assigment\\Views",
-    "\\Lesson04.Assigment\\Views\\Product",
     "\\Lesson04.Assigment\\wwwroot"
   ],
-  "SelectedNode": "\\Lesson04.Assigment\\Views\\Product\\Create.cshtml",
+  "SelectedNode": "\\Lesson04.Assigment\\Models\\DataLocal.cs",
   "PreviewInSolutionExplorer": false
 }

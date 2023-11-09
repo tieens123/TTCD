@@ -221,3 +221,10 @@ F:\TTCD-DACM\TTCD\ASP.NET\Lession04\Lession04\obj\Release\net7.0\refint\Lession0
 F:\TTCD-DACM\TTCD\ASP.NET\Lession04\Lession04\obj\Release\net7.0\Lession04.pdb
 F:\TTCD-DACM\TTCD\ASP.NET\Lession04\Lession04\obj\Release\net7.0\Lession04.genruntimeconfig.cache
 F:\TTCD-DACM\TTCD\ASP.NET\Lession04\Lession04\obj\Release\net7.0\ref\Lession04.dll
+F:\TTCD-DACM\TTCD\ASP.NET\Lession04\Lession04\bin\Release\net7.0\Microsoft.EntityFrameworkCore.dll
+F:\TTCD-DACM\TTCD\ASP.NET\Lession04\Lession04\bin\Release\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\TTCD-DACM\TTCD\ASP.NET\Lession04\Lession04\bin\Release\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\TTCD-DACM\TTCD\ASP.NET\Lession04\Lession04\bin\Release\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\TTCD-DACM\TTCD\ASP.NET\Lession04\Lession04\bin\Release\net7.0\Microsoft.Extensions.DependencyModel.dll
+F:\TTCD-DACM\TTCD\ASP.NET\Lession04\Lession04\bin\Release\net7.0\Mono.TextTemplating.dll
+F:\TTCD-DACM\TTCD\ASP.NET\Lession04\Lession04\bin\Release\net7.0\System.CodeDom.dll
